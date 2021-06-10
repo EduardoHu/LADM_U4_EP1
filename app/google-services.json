@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290868178114",
+    "project_id": "ladm-u4-ejercicio1",
+    "storage_bucket": "ladm-u4-ejercicio1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290868178114:android:f61ad709235d5f831a9f5b",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u4_ejercicio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290868178114-kq5u6u35kcsh6ij3asnpaedo0i35tsgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPp1Aom0fHnsIu5-NK41iEe1b5LhK9zbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290868178114-kq5u6u35kcsh6ij3asnpaedo0i35tsgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
